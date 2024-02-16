@@ -4,7 +4,8 @@
 Esse modelo de previsão foi criado e treinado com um conjunto de dados históricos de alugueis de bicicletas, ele prevê um número de alugueis para um determinado dia, as características de base são informações sazonais e meteorologicas. Os dados que são consumidos para o modelo são de propriedades de
 <a href="https://capitalbikeshare.com/system-data"> 
    <img align="center" alt="Capital Bikeshare" src="https://img.shields.io/badge/Capital%20Bikeshare-FF4500?style=for-the-badge">
-  </a>   e as orientações a seguir estão em <a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html"> 
+  </a> 
+<span> e as orientações a seguir estão em </span><a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html"> 
    <img align="center" alt="Microsoft Learning" src="https://img.shields.io/badge/Microsoft%20Learning-0000FF?style=for-the-badge">
   </a>
 <h2> Criar espaço de trabalho:</h2>
@@ -161,12 +162,14 @@ O Teste retorna, de acordo com as entradas um número previsto de aluguéis.
 
 Você criou um serviço web que está hospedado em uma instância de container da Azure, afim de evitar uso  desnecessário dos recursos, é necessário eliminar o **ponto de extremidades**,
 caso sua instãncia permaneça será cobrado pelo uso de recursos.
-Selecione **pontos de extremidades** no meu lateral
-selecione o ponto de extremidades de previsão de aluguel e selecione **Excluir**
+Selecione `**pontos de extremidades**`no menu lateral
+selecione o ponto de extremidades de previsão de aluguel e selecione `**Excluir**`
 
 ## 🌐 Referencia:
 
-**Microsoft Learning** : https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+**Microsoft Learning:** `https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html`</br>
+
+**Capital Bikeshare:** `https://capitalbikeshare.com/system-data` 
 
 
 
