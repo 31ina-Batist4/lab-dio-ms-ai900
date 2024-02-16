@@ -164,6 +164,12 @@ caso sua instãncia permaneça será cobrado pelo uso de recursos.
 Selecione **pontos de extremidades** no meu lateral
 selecione o ponto de extremidades de previsão de aluguel e selecione **Excluir**
 
+## 🌐 Referencia:
+
+**Microsoft Learning** : https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+
+
+
 
 
 
