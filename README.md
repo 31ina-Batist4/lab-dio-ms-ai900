@@ -44,7 +44,7 @@ Aguarde a criação do espaço, isso leva alguns minutos.
 </br>**Selecionar conjunto de dados :** : Criar um conjunto de dados
 <h2>Tipo de dados</h2>
 
-**Nome** : alugueldebicicletas(não pode ter espaços em branco).
+**Nome** : alugueldebicicletas`(não pode ter espaços em branco)`.
 </br>**Descrição** : dados históricos de aluguel de bicicletas
 </br>**Tipo** : Tabular
 <h2>Fonte de dados</h2>
@@ -97,7 +97,7 @@ Após a criação selecione o conjunto de dados **alugueldebicicletas** para env
 **Selecione o tipo de computação** : sem servidor
 </br>**Tipo de máquina virtual ** : CPU
 </br>**Camada de máquina virtual** : Dedicada
-</br>**Tamanho da máquina virtual** :Standard_DS3_V2* `(Escolha a máquina que atende, o valor descrito é cobrado por hora em que a instancia do seu modelo estiver disponível)`
+</br>**Tamanho da máquina virtual** :Standard_DS3_V2* `(Escolha a máquina que melhor te atende, o valor descrito é cobrado por hora em que a instancia do seu modelo estiver disponível)`
 </br>**Número de instâncias** : 1 </br>
 Enviar o trabalho de treinamento. `Obs.: é inciado automaticamente, demora alguns minutos.`
 
