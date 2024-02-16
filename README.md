@@ -162,8 +162,8 @@ O Teste retorna, de acordo com as entradas um número previsto de aluguéis.
 
 Você criou um serviço web que está hospedado em uma instância de container da Azure, afim de evitar uso  desnecessário dos recursos, é necessário eliminar o **ponto de extremidades**,
 caso sua instãncia permaneça será cobrado pelo uso de recursos.
-Selecione `**pontos de extremidades**`no menu lateral
-selecione o ponto de extremidades de previsão de aluguel e selecione `**Excluir**`
+Selecione **`pontos de extremidades`** no menu lateral
+selecione o ponto de extremidades de previsão de aluguel e selecione **`Excluir`**
 
 ## 🌐 Referencia:
 
